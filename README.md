@@ -4,7 +4,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Screenshot](#screenshot)
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Link](#link)
 - [Built with](#built-with)
 - [Author](#author)
 
@@ -13,6 +15,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./src/assets/screenshot.png)
+
+### Link
+
+[Demo](https://qr-code-component-keven.netlify.app/)
 
 ## Built with
 
